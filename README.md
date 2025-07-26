@@ -1,7 +1,6 @@
 # Ivan Lay Personal Website
 
-This repository contains the source code for Ivan Lay’s personal landing page (
-[ivanlay.com](https://ivanlay.com)). The site is a simple, responsive HTML/CSS showcase that includes a short bio and a link to LinkedIn.
+This repository contains the source code for Ivan Lay’s personal landing page ([ivanlay.com](https://ivanlay.com)). The site is a simple, responsive HTML/CSS showcase that includes a short bio and a link to LinkedIn.
 
 ## Features
 - Clean, modern design with Google Fonts (Inter)
@@ -30,7 +29,7 @@ npx http-server .
 1. Rename your default branch to `main` (if it isn’t already).
 2. Push this repository to `https://github.com/ivanlay/ivanlay.github.io`.
 3. In GitHub, go to **Settings > Pages**, select the `main` branch and root folder `/`, then Save.
-4. Your site will be live at [https://ivanlay.github.io](https://ivanlay.github.io) (and [ivanlay.com](https://ivanlay.com), once configured).
+4. Your site will be live at [ivanlay.github.io](https://ivanlay.github.io) (and [ivanlay.com](https://ivanlay.com), once configured).
 
 ## Repository Structure
 
